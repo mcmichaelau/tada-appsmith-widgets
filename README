@@ -1,3 +1,0 @@
-This is a react app acting as a widget in appsmith. Data is provided in the mockdata object for local development.
-
-Remove all of the increment boilerplate code, and use the widgetData object in place of the appsmith model data as it is not available in this local environment.
