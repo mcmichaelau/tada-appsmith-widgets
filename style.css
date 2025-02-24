@@ -1,14 +1,23 @@
 .app {
-  width: 200px;
-  margin: 20px auto;
-  text-align: center;
-  padding: 20px;
-  border: 1px solid #eee;
-  border-radius: 4px;
+  max-width: 400px;
+  margin: 50px auto;
 }
 
-h2 {
-  margin: 0;
-  font-size: 16px;
+.click-container {
+  text-align: center;
+  margin-bottom: 20px;
 }
-  
+
+.click-header {
+  margin-bottom: 15px;
+}
+
+.button-container {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+.primary {
+  margin-right: 10px;
+}
