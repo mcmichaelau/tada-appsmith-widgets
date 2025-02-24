@@ -1,6 +1,6 @@
 .app {
-  max-width: 400px;
-  margin: 50px auto;
+  max-width: 800px;
+  margin: 20px auto;
 }
 
 .click-container {
@@ -20,4 +20,18 @@
 
 .primary {
   margin-right: 10px;
+}
+
+.ant-card-head-title {
+  font-size: 1.5em;
+  text-align: center;
+}
+
+.ant-list-item {
+  padding: 0;
+  margin-bottom: 16px;
+}
+
+.ant-card-actions {
+  background-color: #fafafa;
 }
