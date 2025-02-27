@@ -1,0 +1,37 @@
+.app {
+  max-width: 800px;
+  margin: 20px auto;
+}
+
+.click-container {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.click-header {
+  margin-bottom: 15px;
+}
+
+.button-container {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+.primary {
+  margin-right: 10px;
+}
+
+.ant-card-head-title {
+  font-size: 1.5em;
+  text-align: center;
+}
+
+.ant-list-item {
+  padding: 0;
+  margin-bottom: 16px;
+}
+
+.ant-card-actions {
+  background-color: #fafafa;
+}
